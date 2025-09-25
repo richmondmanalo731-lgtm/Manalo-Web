@@ -10,5 +10,11 @@ let pass = document.getElementById("password").value;
 }else{
     console.log("Your email is incorrect.")
     document.getElementById("error-msg").innerHTML = "Your email is correct.";
-    }
+}
+ if (email==="richmondmanalo731@gmail.com"){
+        console.log("Your email is correct");
+    }else{
+    console.log("Your email is incorrect.")
+    document.getElementById("error-msg").innerHTML = "Your email is correct.";
+ }
 }
