@@ -7,7 +7,7 @@ function checkmarks(){
 
     if (grade>=95 && grade <=100){
         console.log("PASSED");
-
+        result.s
 
 
     } else if (grade>=85 && grade <=94);{
